@@ -241,7 +241,7 @@ class CollectionViewController: UIViewController, UICollectionViewDataSource, UI
                         cell.dayNum.backgroundColor = UIColor.red
                         break
                     
-                    default: break
+                    //default: break
                     
                 }
                 
